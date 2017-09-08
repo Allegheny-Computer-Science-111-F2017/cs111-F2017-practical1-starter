@@ -60,9 +60,9 @@ The instructor will reduce a programmer's grade for this assignment if the red
 &#x2717; appears on the last commit in GitHub immediately before the
 assignment's due date.
 
-This assignment is graded on a checkmark basis. This means that you will
-receive an A on this assignment as long as you submit something to GitHub by the
-deadline and it passes all of the correctness checks.
+This practical assignment is graded on a checkmark basis. This means that you
+will receive an A on this assignment as long as you submit something to GitHub
+by the deadline and your submission passes all of the correctness checks.
 
 ## Learning
 
