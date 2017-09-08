@@ -44,11 +44,11 @@ Java Style Guide](https://google.github.io/styleguide/javaguide.html).
 
 The source code in the `DisplayArtwork.java` file must also pass additional
 tests set by the [GatorGrader tool](https://github.com/gkapfham/gatorgrader).
-For instance, GatorGrader will check to ensure that `DisplayArtwork`
-produces exactly ten lines of output and that you use the `new Date()`
-construct in the Java code. GatorGrader will also check that your program
-displays the artwork with the intended symbol and that it create ten lines of
-output using only a total of nine `println` statements.
+For instance, GatorGrader will check to ensure that `DisplayArtwork` produces
+exactly ten lines of output and that you use the `new Date()` construct in the
+Java code. GatorGrader will also check that your program displays the artwork
+with the intended symbol and that it creates ten lines of output using only a
+total of nine `println` statements.
 
 When you use the `git commit` command to transfer your source code to your
 GitHub repository, [Travis CI](https://travis-ci.com/) will initialize a build
