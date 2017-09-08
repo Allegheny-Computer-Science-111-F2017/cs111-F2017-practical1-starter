@@ -29,14 +29,7 @@ public class DisplayArtwork {
     System.out.println("Gregory M. Kapfhammer " + new Date());
     // display the lines of the artwork
     // while only using a total of nine println statements
-    System.out.println("Hello");
-    System.out.println("Hello");
-    System.out.println("Hello");
-    System.out.println("Hello");
-    System.out.println("Hello");
-    System.out.println("Hello");
-    System.out.println("Hello");
-    System.out.println("Hello @@ \nHello");
+
   }
 
 }
