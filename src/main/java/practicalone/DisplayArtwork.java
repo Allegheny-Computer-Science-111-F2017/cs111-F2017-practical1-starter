@@ -28,7 +28,8 @@ public class DisplayArtwork {
     // display the name of the programmer and the date
     System.out.println("Gregory M. Kapfhammer " + new Date());
     // display the lines of the artwork
-    // while only using a total of nine println statements
+    // while only using a total of ten println statements
+    // in the entire main method (including the one above)
 
   }
 
